@@ -1,0 +1,29 @@
+h2{
+    Color:red;
+    font-size: 50px;
+}
+
+p{
+    color: linear-gradient(,black, rgb(255, 255, 255));
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+img{
+    max-width: 400px;
+    max-height: 400px;
+}
+
+h4{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    
+}
+body{
+    background: linear-gradient(to right, red 5%, purple, black);
+    color:azure;
+}
+
+h1{
+    font-family:cursive;
+}
+
